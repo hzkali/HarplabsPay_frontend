@@ -1,4 +1,4 @@
-![Rest Countries](./src/assets/screenshots/screenShot1.jpeg)
+
 
 # HarplabsPay React Project
 
