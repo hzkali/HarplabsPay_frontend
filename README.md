@@ -41,8 +41,7 @@ Before you begin, ensure you have Node.js and npm (or yarn) installed on your sy
 2. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/devllopeadam/coin-up.git
-   ```
+   git clone [https://github.com/hzkali/HarplabsPay_frontend.git]
 
 3. **Install Dependencies**:
    ```bash
